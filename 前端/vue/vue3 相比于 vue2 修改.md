@@ -1,3 +1,23 @@
+## 生命周期
+```ts
+// mapping vue2 to vue3
+beforeCreate -> setup()
+created -> setup()
+beforeMount -> onBeforeMount
+mounted -> onMounted
+beforeUpdate -> onBeforeUpdate
+updated -> onUpdated
+beforeDestroy -> onBeforeUnmount
+destroyed -> onUnmounted
+activated -> onActivated
+deactivated -> onDeactivated
+errorCaptured -> onErrorCaptured
+
+// added
+onRenderTracked
+onRenderTriggered
+```
+
 ## vue3 相比于 vue2 全局 API 修改
 ### Vue.config -> app.config
 1. `config.productionTip` 被删除
