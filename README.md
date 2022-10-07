@@ -21,7 +21,7 @@
 
 ### Vue3
 1. [事件监听器](./前端/vue/vue3基础知识/事件监听器.md)
-2. [scoped-slots](./前端/vue/scoped-slots/.md)
+2. [scoped-slots](./前端/vue/vue3基础知识/scoped-slots/.md)
 3. [vue-router](./前端/vue/vue3基础知识/vue-router.md)
 4. [provide-and-inject](./前端/vue/vue3基础知识/provide-and-inject.md)
 5. [scoped-slots](./前端/vue/vue3基础知识/scoped-slots.md)
