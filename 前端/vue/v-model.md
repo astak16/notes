@@ -1,5 +1,11 @@
 ## v-model
 
+```vue
+<custom-input v-model="value" />
+<!-- 等价于 -->
+<custom-input :model-value="value" @update:model-value="value = $event" />
+```
+
 ### 方法一
 ```tsx
 <template>
