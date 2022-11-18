@@ -66,6 +66,7 @@
 
 1. [rails 秘钥管理](./ruby/rails%E7%A7%98%E9%92%A5%E7%AE%A1%E7%90%86.md)
 2. [rails 用邮件发送验证码](./ruby/rails%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E9%AA%8C%E8%AF%81%E7%A0%81.md)
+3. [ruby 基本概念](./ruby/ruby%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
 ## CSS
 
