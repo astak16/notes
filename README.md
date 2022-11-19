@@ -67,6 +67,9 @@
 1. [rails 秘钥管理](./ruby/rails%E7%A7%98%E9%92%A5%E7%AE%A1%E7%90%86.md)
 2. [rails 用邮件发送验证码](./ruby/rails%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E9%AA%8C%E8%AF%81%E7%A0%81.md)
 3. [ruby 基本概念](./ruby/ruby%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+4. [ruby 的 Comparable 和 Enumerable](./ruby/ruby%E7%9A%84Comparable%E5%92%8CEnumerable.md)
+5. [ruby 面向对象](./ruby/ruby%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+6. [ruby 手动处理错误](./ruby/ruby%E6%89%8B%E5%8A%A8%E5%A4%84%E7%90%86%E9%94%99%E8%AF%AF.md)
 
 ## CSS
 
