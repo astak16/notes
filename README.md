@@ -1,5 +1,9 @@
 > Create by uccs 2022-07-27
 
+## JavaScript
+
+1. [promise 基础](./%E5%89%8D%E7%AB%AF/js/promise%E5%9F%BA%E7%A1%80.md)
+
 ## React
 
 1. [useEffect](./前端/react/useEffect.md)
