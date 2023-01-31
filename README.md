@@ -11,6 +11,7 @@
 3. [无限循环](./前端/react/无限循环.md)
 4. [no-op 问题解决](./前端/react/no-op问题解决.md)
 5. [hook 的发展](./前端/react/hook的发展.md)
+6. [如何在 React 中优雅的使用 addEventListener](./前端/react/如何在React中优雅的使用addEventListener.md)
 
 ### 自定义 hook
 
